@@ -9,11 +9,11 @@ Usage::
 <pre>
 python  generate-bidix-templates-arnav.py "monodix left" "bidix" "monodix right" [-p : optional to show the processing]
 </pre>
-<br/>
+
 <h3>outputTemplate.xml</h3>
-<br/>
+
 Contains the output of the script run on fr-es language pair.
-<br/>
+
 <h3>en-es.parallelCorpus.200 </h3>
-<br/>
+
 Contains the first 200 lines of the word aligned and tagged EuroParl parallel corpus of English-Spanish. Apertium's tagger was used to tag the data and Giza++ was used to generate the word aligned parallel corpus.
