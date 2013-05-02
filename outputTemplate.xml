@@ -1,0 +1,318 @@
+<templates>
+
+    <left id="n.678dd30a3ba6972a9b76b14405c25c5f">
+        <right id="n.678dd30a3ba6972a9b76b14405c25c5f">
+            <template>
+
+                <e r="LR"><p><l>lemma1<s n="n" /><s n="f" /><s n="sp" /></l><r>ratón<s n="n" /><s n="m" /><s n="ND" /></r></p></e><!-- souris.n:ratón.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.4cdad83ed1487b27f5dffcd43fe7d760">
+        <right id="adj.4cdad83ed1487b27f5dffcd43fe7d760">
+            <template>
+
+                <e r="LR"><p><l>à nous<s n="adj" /><s n="pos" /><s n="mf" /><s n="sp" /></l><r>lemma2<s n="adj" /><s n="pos" /><s n="GD" /><s n="ND" /></r></p></e><!-- à nous.adj:nuestro.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="np.1f04e5119c3cbe8c4fcabd5dd2d9fa78">
+        <right id="np.1f04e5119c3cbe8c4fcabd5dd2d9fa78">
+            <template>
+
+                <e><p><l>Papouasie-Nouvelle-Guinée<s n="np" /></l><r>Papúa-Nueva Guinea<s n="np" /></r></p></e><!-- Papouasie-Nouvelle-Guinée.np:Papúa-Nueva Guinea.np -->
+            </template>
+        </right>
+    </left>
+
+    <left id="np.e5ff5669b398e128b2b5ceffdd55ec04">
+        <right id="np.e5ff5669b398e128b2b5ceffdd55ec04">
+            <template>
+
+                <e r="RL"><p><l>lemma1<s n="np" /></l><r>Bárbara<s n="np" /></r></p></e><!-- Barbara.np:Bárbara.np -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.ec3e5d709a624583e4ad4e6e672cd283">
+        <right id="adj.ec3e5d709a624583e4ad4e6e672cd283">
+            <template>
+
+                <e><p><l>lemma1<s n="adj" /><s n="f" /></l><r>sino-japonés<s n="adj" /><s n="f" /></r></p></e><!-- sino-japonais.adj:sino-japonés.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.89e26c6ad08707f9f24bec00200a7c92">
+        <right id="n.89e26c6ad08707f9f24bec00200a7c92">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /><s n="f" /></l><r>lemma1o<s n="n" /><s n="f" /></r></p></e><!-- reclus.n:recluso.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.f801bcbcc89f55df0f887b28b76364db">
+        <right id="n.f801bcbcc89f55df0f887b28b76364db">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /></l><r>lemma2<s n="n" /></r></p></e><!-- sciences commerciales.n:ciencias empresariales.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.959bf558f7a688a0a55c1cefc576c50d">
+        <right id="n.959bf558f7a688a0a55c1cefc576c50d">
+            <template>
+
+                <e r="LR"><p><l>lemma1<s n="n" /><s n="mf" /></l><r>lemma2<s n="n" /><s n="GD" /></r></p></e><!-- millionnaire.n:millonario.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.841202c4d427bf03a9ad5f58276ea072">
+        <right id="n.841202c4d427bf03a9ad5f58276ea072">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /><s n="f" /></l><r>lemma2<s n="n" /><s n="f" /></r></p></e><!-- mafieux.n:mafioso.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.eab923d33ae62ffd40c841c33c556d82">
+        <right id="n.eab923d33ae62ffd40c841c33c556d82">
+            <template>
+
+                <e><p><l>débiteur<s n="n" /></l><r>lemma2<s n="n" /></r></p></e><!-- débiteur.n:deudor.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.f5598b7d741a0b39fa065b236d2f0233">
+        <right id="n.f5598b7d741a0b39fa065b236d2f0233">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /></l><r>lemma2<s n="n" /></r></p></e><!-- service militaire.n:servicio militar.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.3a4856ce98d6a9478bf65618c7015d8c">
+        <right id="n.3a4856ce98d6a9478bf65618c7015d8c">
+            <template>
+
+                <e r="LR"><p><l>lemma1<s n="n" /><s n="f" /></l><r>pakistaní<s n="n" /><s n="mf" /></r></p></e><!-- pakistanais.n:pakistaní.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.9cef86dcfd66ae629c4dfc568c1afd18">
+        <right id="adj.9cef86dcfd66ae629c4dfc568c1afd18">
+            <template>
+
+                <e><p><l>à il<s n="adj" /><s n="pos" /></l><r>lemma2<s n="adj" /><s n="pos" /></r></p></e><!-- à il.adj:suyo.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.aa8fbfe95f08621a569975f133fc9ff8">
+        <right id="adj.aa8fbfe95f08621a569975f133fc9ff8">
+            <template>
+
+                <e><p><l>lemma1<s n="adj" /></l><r>lemma2<s n="adj" /></r></p></e><!-- nouveau.adj:nuevo.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.17abff6da4bcce5440310516a748d506">
+        <right id="n.17abff6da4bcce5440310516a748d506">
+            <template>
+
+                <e r="LR"><p><l>lignée<s n="n" /><s n="f" /></l><r>lemma2<s n="n" /><s n="m" /></r></p></e><!-- lignée.n:apellido.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.d171b4ef963c994b0f95268a81b2d942">
+        <right id="n.d171b4ef963c994b0f95268a81b2d942">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /><s n="acr" /></l><r>lemma1<s n="n" /><s n="acr" /></r></p></e><!-- PC.n:PC.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.b6262c32e5bd3d53d7238662ea181764">
+        <right id="adj.b6262c32e5bd3d53d7238662ea181764">
+            <template>
+
+                <e><p><l>lemma1<s n="adj" /><s n="f" /></l><r>islandés<s n="adj" /><s n="f" /></r></p></e><!-- islandais.adj:islandés.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.55b91469a3609814d8bf95e7c972fde1">
+        <right id="adj.55b91469a3609814d8bf95e7c972fde1">
+            <template>
+
+                <e r="LR"><p><l>lemma1<s n="adj" /><s n="mf" /></l><r>bíblico<s n="adj" /><s n="GD" /></r></p></e><!-- biblique.adj:bíblico.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.07ec1eddbbe42b46e2221291419efa50">
+        <right id="adj.07ec1eddbbe42b46e2221291419efa50">
+            <template>
+
+                <e r="RL"><p><l>même<s n="adj" /><s n="ind" /><s n="mf" /></l><r>mismísimo<s n="adj" /><s n="f" /></r></p></e><!-- même.adj:mismísimo.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.6240e5d65273670ee584c15fd33bfe13">
+        <right id="adj.6240e5d65273670ee584c15fd33bfe13">
+            <template>
+
+                <e r="LR"><p><l>lemma1<s n="adj" /><s n="itg" /><s n="f" /><s n="pl" /></l><r>qué<s n="adj" /><s n="itg" /><s n="mf" /><s n="sp" /></r></p></e><!-- quel.adj:qué.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="np.a9e3347eb613c318c1f9cdc053334a83">
+        <right id="np.a9e3347eb613c318c1f9cdc053334a83">
+            <template>
+
+                <e><p><l>lemma1<s n="np" /></l><r>lemma1<s n="np" /></r></p></e><!-- Argia.np:Argia.np -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.4c8db2fd48b8f5a20913fc8c5a5ef771">
+        <right id="adj.4c8db2fd48b8f5a20913fc8c5a5ef771">
+            <template>
+
+                <e><p><l>lemma1<s n="adj" /><s n="f" /></l><r>lemma2<s n="adj" /><s n="f" /></r></p></e><!-- serieux.adj:serio.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.a1a6601042667850a92f4a9ead189ff8">
+        <right id="n.a1a6601042667850a92f4a9ead189ff8">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /><s n="acr" /></l><r>lemma1<s n="n" /><s n="acr" /></r></p></e><!-- SOS.n:SOS.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.86f001a650e49a9ffd45842c46ba0eed">
+        <right id="adj.86f001a650e49a9ffd45842c46ba0eed">
+            <template>
+
+                <e r="RL"><p><l>lemma1<s n="adj" /><s n="GD" /></l><r>lemma2<s n="adj" /><s n="mf" /></r></p></e><!-- descendant.adj:descendente.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.99afd59c34ef5d4e14d6d4e00b4a0d20">
+        <right id="n.99afd59c34ef5d4e14d6d4e00b4a0d20">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /></l><r>lemma2<s n="n" /></r></p></e><!-- jj/mm/aaaa.n:dd/mm/aaaa.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.87b60e71c6618c50b2648c36a0c17199">
+        <right id="n.87b60e71c6618c50b2648c36a0c17199">
+            <template>
+
+                <e r="LR"><p><l>lemma1<s n="n" /><s n="mf" /><s n="sp" /></l><r>lemma2<s n="n" /><s n="mf" /><s n="ND" /></r></p></e><!-- porte-parole.n:portavoz.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.5cfa75d17feb142ab784642376a2c847">
+        <right id="n.5cfa75d17feb142ab784642376a2c847">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /><s n="m" /></l><r>lemma2<s n="n" /><s n="m" /></r></p></e><!-- travail.n:trabajo.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.64135574b53900b15c42c11e26e22598">
+        <right id="n.64135574b53900b15c42c11e26e22598">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /></l><r>lemma2<s n="n" /></r></p></e><!-- connaisseur.n:conocedor.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.93034d772d61ef759515f6e6d80d4f2f">
+        <right id="n.93034d772d61ef759515f6e6d80d4f2f">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /><s n="acr" /></l><r>lemma1<s n="n" /><s n="acr" /></r></p></e><!-- SGAE.n:SGAE.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.d38558e75cbaeb6389bf72fe1c322237">
+        <right id="n.d38558e75cbaeb6389bf72fe1c322237">
+            <template>
+
+                <e r="LR"><p><l>lemma1<s n="n" /><s n="m" /><s n="sp" /></l><r>lemma2<s n="n" /><s n="f" /><s n="ND" /></r></p></e><!-- acquis.n:experiencia.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.4dd556f002a943626acdf4d64d6d6117">
+        <right id="n.4dd556f002a943626acdf4d64d6d6117">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /><s n="acr" /></l><r>lemma1<s n="n" /><s n="acr" /></r></p></e><!-- LUX.n:LUX.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.ea0bf6d51096a1ed6333c4a67ac596ea">
+        <right id="n.ea0bf6d51096a1ed6333c4a67ac596ea">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /></l><r>lemma2<s n="n" /></r></p></e><!-- papier.n:papel.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="adj.ccd2f872ec96bf93a1af595e4efb5533">
+        <right id="adj.ccd2f872ec96bf93a1af595e4efb5533">
+            <template>
+
+                <e r="LR"><p><l>lemma1<s n="adj" /><s n="f" /></l><r>cimarrón<s n="adj" /><s n="mf" /></r></p></e><!-- marron.adj:cimarrón.adj -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.76aec37e177a7ec76e0dc358bf03f65a">
+        <right id="n.76aec37e177a7ec76e0dc358bf03f65a">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /></l><r>lemma2<s n="n" /></r></p></e><!-- milliers.n:miles.n -->
+            </template>
+        </right>
+    </left>
+
+    <left id="n.8ea2ac03a560ec89281edc56a9be9fb1">
+        <right id="n.8ea2ac03a560ec89281edc56a9be9fb1">
+            <template>
+
+                <e><p><l>lemma1<s n="n" /><s n="acr" /></l><r>lemma1<s n="n" /><s n="acr" /></r></p></e><!-- OPA.n:OPA.n -->
+            </template>
+        </right>
+    </left>
+
+</templates>
